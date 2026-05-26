@@ -4,8 +4,6 @@ pubDate: "2026-05-26"
 description: "A deep dive into bypassing heavy databases using Git, serverless endpoints, and raw Markdown."
 ---
 
-# The Ultimate Zero-Database CMS Pipeline
-
 When building a personal portfolio, adding a traditional database (like MongoDB or PostgreSQL) often introduces unnecessary overhead. You have to handle connections, pay for hosting instances, manage backups, and deal with complex visual text editors. 
 
 This blog leverages a **Git-as-a-CMS** pattern to completely bypass those bottlenecks.
