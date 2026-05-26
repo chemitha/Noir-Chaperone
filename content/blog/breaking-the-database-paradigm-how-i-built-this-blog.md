@@ -4,6 +4,13 @@ pubDate: "2026-05-26"
 description: "Auto-published from Admin Editor."
 ---
 
+---
+title: "Breaking the Database Paradigm: How I Built This Blog"
+pubDate: 2026-05-26
+description: "Ditching traditional databases for an automated, Git-backed Markdown pipeline."
+author: "Chemitha"
+---
+
 # Breaking the Database Paradigm
 
 Welcome to my first blog post! This entire platform runs completely **database-less**. Instead of relying on a clunky SQL or NoSQL database, every single post you read here is parsed directly from a plain-text Markdown file. 
