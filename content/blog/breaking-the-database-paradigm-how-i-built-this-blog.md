@@ -1,14 +1,7 @@
 ---
 title: "Breaking the Database Paradigm: How I Built This Blog"
 pubDate: "2026-05-26"
-description: "Auto-published from Admin Editor."
----
-
----
-title: "Breaking the Database Paradigm: How I Built This Blog"
-pubDate: 2026-05-26
 description: "Ditching traditional databases for an automated, Git-backed Markdown pipeline."
-author: "Chemitha"
 ---
 
 # Breaking the Database Paradigm
